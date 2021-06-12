@@ -27,5 +27,5 @@
 [NOTE, caption="Imp" ]
 ===============================================================
 The Logical with Negate instructions can be implemented by inverting the _rs2_ inputs to the base-required AND, OR, and XOR logic instructions.
-In some implementations, the inverter on rs2 used for subtraction can be reused for this purpose.
+In some implementations, the inverter on _rs2_ used for subtraction can be reused for this purpose.
 ===============================================================
