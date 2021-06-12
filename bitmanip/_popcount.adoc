@@ -1,7 +1,7 @@
 ==== Count population
 
 These instructions count the number of set bits (1-bits). This is also
-commonly referred to as population count.
+commonly referred to as ‘population count’.
 
 [%header,cols="^1,^1,4,8"]
 |===
