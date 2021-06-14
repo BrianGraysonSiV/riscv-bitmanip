@@ -28,6 +28,11 @@ Such operations are also referred to as ‘circular shifts’.
 |ror _rd_, _rs1_, _rs2_
 |<<#insns-ror>>
 
+|
+|&#10003;
+|rorw _rd_, _rs1_, _rs2_
+|<<#insns-rorw>>
+
 |&#10003;
 |&#10003;
 |rori _rd_, _rs1_, _shamt_
@@ -37,11 +42,6 @@ Such operations are also referred to as ‘circular shifts’.
 |&#10003;
 |roriw _rd_, _rs1_, _shamt_
 |<<#insns-roriw>>
-
-|
-|&#10003;
-|rorw _rd_, _rs1_, _rs2_
-|<<#insns-rorw>>
 |===
 
 .Architecture Explanation

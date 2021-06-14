@@ -12,16 +12,6 @@ instructions that returns the smaller/larger of two operands.
 
 |&#10003;
 |&#10003;
-|max _rd_, _rs1_, _rs2_
-|<<#insns-max>>
-
-|&#10003;
-|&#10003;
-|maxu _rd_, _rs1_, _rs2_
-|<<#insns-maxu>>
-
-|&#10003;
-|&#10003;
 |min _rd_, _rs1_, _rs2_
 |<<#insns-min>>
 
@@ -29,5 +19,15 @@ instructions that returns the smaller/larger of two operands.
 |&#10003;
 |minu _rd_, _rs1_, _rs2_
 |<<#insns-minu>>
+
+|&#10003;
+|&#10003;
+|max _rd_, _rs1_, _rs2_
+|<<#insns-max>>
+
+|&#10003;
+|&#10003;
+|maxu _rd_, _rs1_, _rs2_
+|<<#insns-maxu>>
 |===
 
